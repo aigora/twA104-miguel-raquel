@@ -1,10 +1,11 @@
 # Título del trabajo
 
-Descripción breve del proyecto a realizar (2-3 frases).
+Caja que se abre con tarjetas (con un sensor RFID) como las puertas de los hoteles
 
 ## Integrantes del equipo
 
-Nombres, apellidos, y usuario GitHub de los integrantes del equipo.
+Miguel Chen Zheng 
+Raquel Clemente Bastante
 
 ## Objetivos del trabajo
 
