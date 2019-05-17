@@ -8,4 +8,4 @@ Miguel Chen Zheng & Raquel Clemente Bastante
 
 ## Objetivos del trabajo
 
-Lista de los objetivos que se persiguen con el trabajo propuesto.
+Emplear el lenguaje en C aprendido en clase en crear un trabajo con una placa arduino, siendo nuestro caso una caja que funciona con un sensor RFID, un servomotor y dos leds.
