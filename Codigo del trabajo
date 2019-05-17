@@ -86,7 +86,7 @@ void loop() {
 
 boolean compare(byte tarjeta[], byte password[]) //Funcion que compara el codigo de la tarjeta con la guardada en la memoria
 {
-	for (int j = 0; j < 4; j++) {
+	for (int j = 0; j < N; j++) {
 		if (tarjeta[j] != password[j])return(false);
 	}
 	return(true);
