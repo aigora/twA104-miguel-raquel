@@ -4,7 +4,7 @@ Caja que se abre con tarjetas (con un sensor RFID) como las puertas de los hotel
 
 ## Integrantes del equipo
 
-Miguel Chen Zheng 
+Miguel Chen Zheng \n
 Raquel Clemente Bastante
 
 ## Objetivos del trabajo
